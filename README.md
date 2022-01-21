@@ -37,7 +37,5 @@
 ## A maioria das tags são inglês
 
 - Estamos no formato (markmap)
-=======
-#  hello pofemos create several ways to learn.
-# We can create multiple tags We can create multiple tags 
->>>>>>> 46b626ed2d7eb0db99b94b16b12633182dc3f2c3
+
+## We can create multiple tags We can create multiple tags
